@@ -22,4 +22,7 @@ p {
   font-family: Helvetica;
 }
 
-
+.class {
+  margin:100px;
+  display: inline-block
+}
