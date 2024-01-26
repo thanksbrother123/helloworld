@@ -3,3 +3,37 @@
   text-alignment: center;
   font-family: Helvetica;
 }
+
+body {
+  background-color: spacegrey;
+}
+  
+
+h1 {
+  color: lightblue;
+  font-family: Helvetica;
+  text-alignment: center;
+}
+  
+h2 {
+  color: lightblue;
+  font-family: Helvetica;
+  text-alignment: center;
+}
+  
+h3 {
+  color: lightblue;
+  font-family: Helvetica;
+  text-alignment: center;
+}
+  
+p {
+  color: lightblue;
+  font-family: Helvetica;
+  text-alignment: center;
+}
+
+h3: hover {
+  text-size: 5px;
+}
+
